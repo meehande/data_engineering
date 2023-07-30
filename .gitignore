@@ -69,3 +69,6 @@ release
 .mypy_cache/
 
 clivenv/*
+
+# output / visualisations
+*.html
